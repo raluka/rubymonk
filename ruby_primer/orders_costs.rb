@@ -24,3 +24,4 @@ class Restaurant
     end
   end
 end
+
